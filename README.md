@@ -40,7 +40,7 @@ For the visual representation of data, the following color palette has been used
 The data analyzed in this case study is based on synthesized property sales records. It has been designed to mimic real transactions for the purpose of this analysis but does not reflect actual market data. This synthetic dataset was used to ensure privacy and confidentiality, allowing for the demonstration of data analysis and forecasting techniques without compromising real-world data integrity.
 
 ## Usage
-This repository contains all the necessary code, data visualizations, and documentation to understand the property price trends and forecast analysis. Please refer to the individual files for detailed instructions on running the analyses and interpreting the dashboard visualizations.
+This repository contains all the necessary data, data visualizations, and documentation to understand the property price trends and forecast analysis. Please refer to the individual files for detailed instructions on running the analyses and interpreting the dashboard visualizations.
 
 
 
